@@ -1,0 +1,38 @@
+header.bg_t{
+    background:url(../img/3.1.jpg);
+}
+header.bg_t.bg_w{
+    background:url(../img/4.4.jpg);
+}
+section{
+    width:1201px;
+    margin:15px auto;
+    overflow: hidden;
+}
+.main_left{
+    float:right;
+    width:80%;
+}
+.main_right{
+    float:left;
+    width:19%;
+    margin-left:5px;
+}
+section h3{
+    border-bottom:1px solid #999;
+    padding-bottom: 10px;
+}
+section h2{
+    text-align:center;
+    line-height:29px;
+}
+section h2 span{
+    color:#888;
+}
+section p{
+    line-height:28px;
+    text-indent:30px;
+}
+section li{
+    line-height: 33px;
+}

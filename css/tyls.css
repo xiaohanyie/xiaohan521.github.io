@@ -1,0 +1,33 @@
+section{
+    width:1201px;
+    margin:0 auto;
+    overflow: hidden;
+}
+.main_left{
+    float:left;
+    width:65%;
+}
+.main_right{
+    float:right;
+    width:34%;
+    margin-left:5px;
+}
+section li{
+    line-height:35px;
+    text-align:center;
+}
+section h3{
+    border-bottom:1px solid #999;
+    margin:10px 50px;
+    padding-bottom: 10px;
+}
+section p{
+    text-indent: 30px;
+    line-height:35px;
+}
+section .mg img{
+    width:230px;
+    margin:5px;
+    height:200px;
+    border-radius:8px;
+}
